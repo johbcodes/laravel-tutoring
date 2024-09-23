@@ -1,0 +1,1 @@
+<a href="{{ route('settings.profile') }}" target="_blank" rel="noopener noreferrer">General Settings</a>
